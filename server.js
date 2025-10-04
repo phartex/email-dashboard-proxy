@@ -7,7 +7,7 @@ const PORT = 3001;
 
 const allowedOrigins = [
   "http://localhost:3000", // your local frontend
-  "https://your-frontend-app.onrender.com", // your deployed frontend
+  "https://habari-email-assessment.netlify.app", // your deployed frontend
 ];
 
 
